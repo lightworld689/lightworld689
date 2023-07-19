@@ -10,7 +10,7 @@ Welcome to DengquejiL Super Quantum Computer\(DLSQC\)!
 \[dqjl@DLSQC\:\~\] \$ dqjl code  
 我经常使用python进行编程，并且我正在学习CPP！  
 \[dqjl@DLSQC\:\~\] \$ dqjl iamdoing  
-我正在做*一些有趣的事*！  
+我正在做一些"有趣的事"！  
 \[dqjl@DLSQC\:\~\] \$ dqjl myblog  
 https://lightworld689.github.io  
 \[dqjl@DLSQC\:\~\] \$ dlsqcsystem shutdown --now  

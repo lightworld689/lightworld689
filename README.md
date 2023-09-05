@@ -1,1 +1,1 @@
-##### [DengquejiL Super Quantum Computer(DLSQC)日志](https://lightworld689.github.io)
+##### [SEE HERE](https://lightworld689.github.io)

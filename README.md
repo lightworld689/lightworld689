@@ -4,3 +4,5 @@
 
 [Github](https://www.github.com/lightworld689)
 [Bilibili](https://space.bilibili.com/547970284)
+
+[![lightworld689's GitHub stats](https://github-readme-stats.vercel.app/api?username=lightworld689)](https://github.com/anuraghazra/github-readme-stats)
